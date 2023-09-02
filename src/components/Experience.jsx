@@ -1,6 +1,5 @@
 import React from 'react'
 import html from "../assets/Experience/html.png";
-import css from "../assets/Experience/css.png";
 import javascript from "../assets/Experience/javascript.png";
 import reactImage from "../assets/Experience/react.png";
 import ExpressJS from "../assets/Experience/express-js.png";
@@ -18,12 +17,6 @@ const Experience = () => {
             src: html,
             title: "HTML",
             style: "shadow-orange-500",
-        },
-        {
-            id: 2,
-            src: css,
-            title: "CSS",
-            style: "shadow-blue-500",
         },
         {
             id: 3,
@@ -71,7 +64,7 @@ const Experience = () => {
 
 
     return (
-        <div name="experience" className='bg-gradient-to-b from-gray-800 to-black w-full h-screen'>
+        <div name="experience" className='bg-gradient-to-b from-gray-800 to-black w-full md:h-screen'>
 
             <div className='max-w-screen-lg mx-auto p-4 flex flex-col justify-center w-full h-full text-white'>
                 <div>
