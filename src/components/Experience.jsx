@@ -9,6 +9,7 @@ import tailwind from "../assets/Experience/tailwind.png";
 import node from "../assets/Experience/node.png"
 
 
+
 const Experience = () => {
 
     const techs = [
