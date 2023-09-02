@@ -14,21 +14,13 @@ const About = () => {
                 </div>
 
                 <p className="text-xl mt-0 sm:mt-20">
-                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius,
-                    deserunt illum mollitia officiis qui exercitationem perferendis neque
-                    quasi a recusandae necessitatibus tempora iusto! Blanditiis error
-                    iste, totam fugiat recusandae rerum laborum perferendis molestiae
-                    aperiam asperiores nemo. Magni dolor maxime debitis vitae, eaque hic
-                    ab mollitia voluptatibus, a nostrum eveniet laborum!
+                    Hello, I am Sameer Singh Vishene, a recent graduate from IPS Academy, Indore. With a deep enthusiasm for software development and design, I'm eager to kickstart my career by leveraging my skills on practical projects. My current interests revolve around web application development, where I enjoy working with technologies like React, Tailwind, Express JS, Node JS and Mongo DB to craft engaging and user-friendly solutions.
                 </p>
 
                 <br />
 
                 <p className="text-xl">
-                    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum
-                    pariatur, vel similique sint, nobis aspernatur ut praesentium
-                    explicabo ipsam aliquid quasi laboriosam et culpa possimus repudiandae
-                    quisquam ullam maiores ab unde. Fugiat odio mollitia nemo alias.
+                    I am a recent graduate from IPS Academy, Indore, with a strong passion for software development and design. Eager to embark on my professional journey, I am enthusiastic about applying my skills to real-world projects. My current focus lies in web application development, utilizing technologies such as React, Tailwind, Express JS, and Node JS to create innovative solutions.
                 </p>
             </div>
         </div>
