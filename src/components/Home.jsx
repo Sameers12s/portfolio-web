@@ -1,5 +1,5 @@
 import React from 'react'
-import HeroImage from "../assets/HeroImage.png"
+import SameerSinghVishene from "../assets/SameerSinghVishene.png"
 import { TbArrowRightCircle } from 'react-icons/tb'
 import { Link } from 'react-scroll'
 
@@ -12,7 +12,7 @@ const Home = () => {
                     <h2 className='text-4xl sm:text-7xl font-bold text-white'>I'm a full Stack Devloper</h2>
                     <p className='text-gray-500 py-4 max-w-md'>
                         I am a Fresher eager to apply my passion for software development and design to real-world projects.<br />
-                        Currently, I love to work on web application using technologies like
+                        Currently, work on web application using technologies like
                         React, Tailwind, Express JS and Node JS.
                     </p>
 
@@ -27,7 +27,7 @@ const Home = () => {
                 </div>
 
                 <div>
-                    <img src={HeroImage} alt="my profile" className='rounded-2xl mx-auto w-2/3 md:w-80' />
+                    <img src={SameerSinghVishene} alt="my profile" className='rounded-2xl mx-auto w-2/3 md:w-80' />
                 </div>
             </div>
 

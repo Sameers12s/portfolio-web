@@ -20,7 +20,9 @@ const About = () => {
                 <br />
 
                 <p className="text-xl">
-                    I am a recent graduate from IPS Academy, Indore, with a strong passion for software development and design. Eager to embark on my professional journey, I am enthusiastic about applying my skills to real-world projects. My current focus lies in web application development, utilizing technologies such as React, Tailwind, Express JS, and Node JS to create innovative solutions.
+                    I am a committed and passionate engineering student with a passion for applying scientific principles to real-world challenges. Currently pursuing my engineering degree, I am focused on expanding my knowledge and
+                    practical skills in various disciplines, aiming to make a positive impact in the field of engineering.
+
                 </p>
             </div>
         </div>
